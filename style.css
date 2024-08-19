@@ -1,0 +1,14 @@
+
+body{
+
+background-image: url("./imagenes/fondo.jpg");
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+.contenedor{
+    display: flex;gap:40px;line-height: 1.5; font-family: Arial;font-weight: bolder;justify-content:space-around;width: 100px;padding-right: 30em;}
+       
+       p{margin:20px;}
+h1{margin:20px;}
